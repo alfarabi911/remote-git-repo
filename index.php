@@ -10,6 +10,7 @@
 
 <body>
     <h1>TESTING GITE REMOTE ke REPOSITORY</h1>
+    <p>Lorem ipsum dolor sit amet.</p>
 </body>
 
 </html>
