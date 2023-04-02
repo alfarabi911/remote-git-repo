@@ -11,6 +11,11 @@
 <body>
     <h1>TESTING GITE REMOTE ke REPOSITORY</h1>
     <p>Lorem ipsum dolor sit amet.</p>
+    <ul>
+        <li>Nama</li>
+        <li>Jenis Kelamin</li>
+        <li>Umur</li>
+    </ul>
 </body>
 
 </html>
